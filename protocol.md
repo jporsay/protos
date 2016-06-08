@@ -117,13 +117,6 @@ C: CGET
 S: +OK
 CONF defaultServer example.com
 CONF imageFlip true
-CONF leetMode false
-CONF serverExceptions none
-...
-C: CGET
-S: +OK
-CONF defaultServer example.com
-CONF imageFlip true
 CONF leetMode true
 CONF serverExceptions johndoe@example.com,janedoe@megaserver.net
 ...
